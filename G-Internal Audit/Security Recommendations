@@ -1,0 +1,26 @@
+Security Recommendations based on Audit results
+
+Controls:
+- Manage employee privileges's, should comply with "Least Privilege"
+- implment plans for Disaster Recovery (regular backups of system, etc.)
+- create new password requirements, stronger than what is currently used
+- Seperate employee duties more, CEO should not manage DTD operations and payroll along with other things
+- implment IDS
+- set up a regularly reacurring back up system in case of breach
+- implement schedule for monitoring and maintainance of legacy systems
+- Encyrption must be used, currently everything is just saved on internal server
+- Implment password management system
+
+Compliance
+- implemnt least priviledge, only relevent employees shoudl have access to payment information
+- create a secure envrionment to save and process card information 
+- encrypt said data
+- Must create Password Managment system and stronger password requirements, standard with other companies
+
+General Data Recs
+- E.U. Data must be encrypted and kept confiedntial from irrevlant departments 
+- implement classifcations for current assets
+
+System and Organiation Controls
+- Limit user access with Least privilege policies
+- encrypt and keep PII and SPII private
