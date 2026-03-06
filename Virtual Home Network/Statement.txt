@@ -1,3 +1,5 @@
-Intro
+Intro: Cisco Packet Tracer is a tool which allows users to simulate network environments. Using this I will learn more about networking and how data is transfred in real life senarios. I will also look into how to protect data in realistic ways for the normal person.
 
-Goal:
+Goal: Create a virutal Home Network to simulate real world network acrhitecture. 
+
+Method: Cisco Packet Tracer application.
