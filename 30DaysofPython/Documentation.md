@@ -14,7 +14,12 @@ Day 2 - 6/24/2026
 Day 3 - 6/25/2026
   Day 3 focues on python operators. This included the math operators, logical operators, and the comprasison operators. 
 
-  I didnt really learn anything new per-say in this section but the extra practice i got from doing all the exercises is really going to help me down the line. I espeiclly liked #23 where you have to print out a table. I liked it becasue, to properly do it and not hard code the answer, it makes you analyze the pattern adn create a solution using that pattern. In my case that solution involved making a for loop with a printf statment for each line in the table. 
+  I didnt really learn anything new per-say in this section but the extra practice i got from doing all the exercises is really going to help me down the line. I espeiclly liked #23 where you have to print out a table. I liked it becasue, to properly do it and not hard code the answer, it makes you analyze the pattern adn create a solution using that pattern. In my case that solution involved making a for loop with a printf statment for each line in the table.
+
+Day 4 - 6/27/26
+  Day 4 focuses on strings and their methods
+
+  Although i knew most of these methods from previous classes I have taken, using them in conjuction is something i have always found a little confusing and practicing this was very helpful. For example in questions 18 and 19 i had to combine a loop with join and split methods in such a way that i only the first letter of each word. Practicing these basics will help me in the future projects i take on. 
   
 
 
