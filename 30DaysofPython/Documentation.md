@@ -21,5 +21,8 @@ Day 4 - 6/27/26
 
   Although i knew most of these methods from previous classes I have taken, using them in conjuction is something i have always found a little confusing and practicing this was very helpful. For example in questions 18 and 19 i had to combine a loop with join and split methods in such a way that i only the first letter of each word. Practicing these basics will help me in the future projects i take on. 
   
+Day 5 - 6/28/26
+  Day 5 focuses on Lists and how to manipulate them
 
+  This is another basic python feature that i am familiar with but there is alot that i learned and relearned from this section. The exercises this time were really fun to do becasue I can understand the implications of what is being taught to me. List comprehension is one the most important things to understand in data structures and algorithims and this part made me remember the essense of that kind of programming. Im sure that this practice I recived from this section will directly translate to skills I can use in the future.
 
