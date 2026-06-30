@@ -26,3 +26,8 @@ Day 5 - 6/28/26
 
   This is another basic python feature that i am familiar with but there is alot that i learned and relearned from this section. The exercises this time were really fun to do becasue I can understand the implications of what is being taught to me. List comprehension is one the most important things to understand in data structures and algorithims and this part made me remember the essense of that kind of programming. Im sure that this practice I recived from this section will directly translate to skills I can use in the future.
 
+Day 6 - 6/29/26
+  Day 6 focuses on tuples
+
+  This was very similar to the Lists section and was really just more practice when it came to list comprehension. I did learn more about unpacking through this and im sure that will help me down the line.
+  
