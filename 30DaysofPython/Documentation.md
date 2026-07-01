@@ -30,4 +30,9 @@ Day 6 - 6/29/26
   Day 6 focuses on tuples
 
   This was very similar to the Lists section and was really just more practice when it came to list comprehension. I did learn more about unpacking through this and im sure that will help me down the line.
+
+Day 7 - 6/30/26
+  Day 7 focuses on sets
+
+  Not much to write home about here, after getting aquainted with tuples and lists everything with sets came easy the only thing i really learned was that python has all of the math functionality for sets such as union and intersection. and they can be used for more than just numbers. 
   
