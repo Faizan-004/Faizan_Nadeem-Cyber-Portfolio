@@ -40,4 +40,8 @@ Day 8 - 7/6/26
   Focuses on dictionaries 
 
   Very easy and simple concept. Good refresher but no challenge in the exercies 
-  
+
+Day 9 - 7/6/26
+  Focues on conditional statements, mainly if/elif/else
+
+  This was an enjoyable one becasue now we are getting into terriorty that i struggled with in some of my classes. conditionals are not nessesaryly a hard thing to learn however when leveraging them in more complex applications they can get somewhat confusing. this practice will be beneficl in the future. 
