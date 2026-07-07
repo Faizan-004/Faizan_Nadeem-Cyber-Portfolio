@@ -35,4 +35,9 @@ Day 7 - 6/30/26
   Day 7 focuses on sets
 
   Not much to write home about here, after getting aquainted with tuples and lists everything with sets came easy the only thing i really learned was that python has all of the math functionality for sets such as union and intersection. and they can be used for more than just numbers. 
+
+Day 8 - 7/6/26
+  Focuses on dictionaries 
+
+  Very easy and simple concept. Good refresher but no challenge in the exercies 
   
