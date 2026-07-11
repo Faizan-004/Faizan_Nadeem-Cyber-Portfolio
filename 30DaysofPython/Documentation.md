@@ -45,3 +45,8 @@ Day 9 - 7/6/26
   Focues on conditional statements, mainly if/elif/else
 
   This was an enjoyable one becasue now we are getting into terriorty that i struggled with in some of my classes. conditionals are not nessesaryly a hard thing to learn however when leveraging them in more complex applications they can get somewhat confusing. this practice will be beneficl in the future. 
+
+Day 10 - 7/9/26
+  loops
+
+  Everything was pretty simple and straightforward in this section. while and for loops are intergal to many algoritims and getting a refresher on them will really be helpful for when i take more time to explore algorithms. ont thing that i really liked in this was Exercise 3 which had me use dictionaries as freqeuncy tables to organize some results. it forced me to learn more about data types and ways to use dictionaries in realistic senarios. 
