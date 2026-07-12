@@ -50,3 +50,8 @@ Day 10 - 7/9/26
   loops
 
   Everything was pretty simple and straightforward in this section. while and for loops are intergal to many algoritims and getting a refresher on them will really be helpful for when i take more time to explore algorithms. ont thing that i really liked in this was Exercise 3 which had me use dictionaries as freqeuncy tables to organize some results. it forced me to learn more about data types and ways to use dictionaries in realistic senarios. 
+
+Day 11 - 7/10/26
+  Focuses on Functions
+
+  This was a fun excercise to do as it required me to recall the the lessons the previous days have required. this was 
